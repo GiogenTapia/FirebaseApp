@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387635561794",
+    "project_id": "notificacionesapp-4fbfb",
+    "storage_bucket": "notificacionesapp-4fbfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387635561794:android:9af094b62e9511aecbb4db",
+        "android_client_info": {
+          "package_name": "com.giogen.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387635561794-jsqlv6s2ldj26s9ccp27t1hcfdkc2vc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAlyhd6kNrAyoA00MoRY30zsZ-UUXkl-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387635561794-jsqlv6s2ldj26s9ccp27t1hcfdkc2vc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
